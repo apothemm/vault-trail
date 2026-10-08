@@ -1,0 +1,8 @@
+bin/
+obj/
+build/
+target/
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
